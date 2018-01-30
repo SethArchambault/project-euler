@@ -1,0 +1,6 @@
+
+match: 0, no_match: 0, efficiency nan
+sum: 233168
+time: 0.003334
+time_used: nan
+time_wasted: nan
